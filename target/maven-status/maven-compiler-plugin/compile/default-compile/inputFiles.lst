@@ -1,0 +1,17 @@
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/controllers/CurrencyController.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/interfaces/MainMenuInterface.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/controllers/MainMenuController.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/dao/CurrencyRepository.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/dao/CategoryRepository.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/domain/Currency.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/controllers/ProductController.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/controllers/CategoryController.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/dao/ProductRepository.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/ui/Aplication.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/dao/PriceRepository.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/domain/Product.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/domain/Category.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/controllers/PriceController.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/domain/CurrencyProvider.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/domain/Price.java
+/Users/alexander/eclipse-workspace/JDBC-commerce/src/main/java/main/TestJDBCConnApp.java
